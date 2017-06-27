@@ -2,10 +2,10 @@
 
 <table>
 <tr>
-<td>Node</td><td>6.11.0</td>
+<td>Node Version</td><td>6.11.0</td>
 </tr>
 <tr>
-<td>Angular</td><td>1.3.5</td>
+<td>Angular Version</td><td>1.3.5</td>
 </tr>
 <tr>
 <td>Gulp Version</td>
