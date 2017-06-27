@@ -2,19 +2,11 @@
 
 <table>
 <tr>
-<td>Package</td><td>gulp-git</td>
-</tr>
-<tr>
-<td>Description</td>
-<td>Git plugin for gulp (gulpjs.com)</td>
-</tr>
-<tr>
-<td>Node Version</td>
-<td>>= 0.9</td>
+<td>Package</td><td>gulp 3.9.0</td>
 </tr>
 <tr>
 <td>Gulp Version</td>
-<td>3.x</td>
+<td>3.9.0</td>
 </tr>
 </table>
 
