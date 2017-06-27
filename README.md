@@ -2,7 +2,10 @@
 
 <table>
 <tr>
-<td>Package</td><td>gulp 3.9.0</td>
+<td>Node</td><td>6.11.0</td>
+</tr>
+<tr>
+<td>Angular</td><td>1.3.5</td>
 </tr>
 <tr>
 <td>Gulp Version</td>
