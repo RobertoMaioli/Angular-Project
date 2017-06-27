@@ -16,7 +16,6 @@
 ## Requerimentos
 
 * NodeJS com NPM: [link](https://nodejs.org/)
-* Bower: [link](https://bower.io/)
 
 ## Instalação
 
