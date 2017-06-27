@@ -1,13 +1,22 @@
 # Configuração do Ambiente
 
-Teste requerido pela Escale para avaliação de habilidades.
-
-## TL;DR
-
-* `npm install`
-* `bower install`
-* `gulp serve`
-* Abra o navegador em `localhost:3000`
+<table>
+<tr>
+<td>Package</td><td>gulp-git</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Git plugin for gulp (gulpjs.com)</td>
+</tr>
+<tr>
+<td>Node Version</td>
+<td>>= 0.9</td>
+</tr>
+<tr>
+<td>Gulp Version</td>
+<td>3.x</td>
+</tr>
+</table>
 
 ## Requerimentos
 
