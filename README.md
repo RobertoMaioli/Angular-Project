@@ -1,4 +1,4 @@
-# Teste Escale
+# Configuração do Ambiente
 
 Teste requerido pela Escale para avaliação de habilidades.
 
